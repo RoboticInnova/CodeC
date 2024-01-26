@@ -3,7 +3,6 @@
 int main()
 {
     int numero = 0;
-    puts(saludo);
-    scanf(&numero);
+    puts("ED");
     return 0;
 }
